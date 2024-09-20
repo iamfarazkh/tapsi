@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "vazir";
+    font-weight: normal;
+    src: url(../assets/fonts/Vazir.ttf);
+}
+
+body,
+button  {
+    font-family: "vazir";   
+}
